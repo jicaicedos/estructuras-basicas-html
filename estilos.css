@@ -44,7 +44,7 @@ figure {
 	width: 200px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 380px) {
 	#info figure img {
 		width: 65px;
 	}
