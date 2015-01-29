@@ -1,0 +1,39 @@
+body {
+	display: -webkit-box;
+	font-size: 16px;
+}
+img {
+	border-radius: 50%;
+	padding: 5px;
+	width: 96px;
+}
+figure {
+	font-size: 0;
+}
+#info {
+	border: 5px solid red;
+	width: 25%;
+	text-align: center;
+	height: auto;
+}
+#principal {
+	border: 5px solid green;
+	/*display: inline-block;*/
+	height: auto;
+	margin: 4px;
+	width: 70%;
+}
+#bienvenido {
+	border: 5px solid gray;
+	margin: 4px;
+}
+#proyectos {
+	border: 5px solid blue;
+	margin: 4px;
+}
+.proyecto {
+	display: inline-block;
+	border: 10px solid #A96912;	
+	margin: 4px;
+	width: 250px;
+}
