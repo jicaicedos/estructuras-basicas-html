@@ -43,3 +43,9 @@ figure {
 	margin: 4px;
 	width: 200px;
 }
+
+@media screen and (max-width: 320px) {
+	#info figure img {
+		width: 65px;
+	}
+}
